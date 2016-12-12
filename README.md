@@ -1,2 +1,4 @@
 # use-strict-loader
-Add 'use strict' to the header of a file.
+This is a loader for webpack.
+
+You can use this loader for adding 'use strict' to the header of a file.
