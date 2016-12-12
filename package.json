@@ -1,0 +1,19 @@
+{
+  "name": "use-strict-loader",
+  "version": "1.0.1",
+  "description": "Add 'use strict' to the header of a javascript file.",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --config ./webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanzhangren/use-strict-loader.git"
+  },
+  "keywords": [
+    "use",
+    "strict"
+  ],
+  "author": "Zero Zhang",
+  "license": "MIT"
+}
